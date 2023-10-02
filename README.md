@@ -13,7 +13,7 @@ Add your steam username and password to the docker-compose.yml (Ideally a sepera
   
 start the server:
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 If you are using an account with steamguard enabled, you need to attach the container and put in your code
