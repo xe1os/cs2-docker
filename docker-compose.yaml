@@ -5,7 +5,7 @@ volumes:
     name: cs2-data
 
 services:
-  cs2:
+  csgo:
     image: soren90/cs2:latest
     container_name: cs2-ds
 
